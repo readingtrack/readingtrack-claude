@@ -6,6 +6,10 @@
   "author": { "name": "Boolescale Engineering Private Limited", "url": "https://boolescale.com" },
   "homepage": "https://www.readingtrack.com",
   "repository": "https://github.com/readingtrack/readingtrack-claude",
+  "documentationUrl": "https://www.readingtrack.com/docs/integrations/claude-code",
+  "supportUrl": "https://www.readingtrack.com/support",
+  "privacyPolicyUrl": "https://www.readingtrack.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.readingtrack.com/terms-of-service",
   "license": "Proprietary",
   "keywords": ["reading", "notes", "learning", "reading-list", "knowledge"]
 }
