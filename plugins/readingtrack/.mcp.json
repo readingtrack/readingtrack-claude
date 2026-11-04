@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "readingtrack": {
+      "type": "http",
+      "url": "https://www.readingtrack.com/api/mcp"
+    }
+  }
+}

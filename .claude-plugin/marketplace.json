@@ -1,0 +1,13 @@
+{
+  "name": "readingtrack",
+  "owner": { "name": "Boolescale Engineering Private Limited", "email": "readingtrack.official@gmail.com" },
+  "metadata": { "description": "ReadingTrack plugins for Claude." },
+  "plugins": [
+    {
+      "name": "readingtrack",
+      "source": "./plugins/readingtrack",
+      "description": "Save explanations, code snippets and ordered reading lists from Claude to your private ReadingTrack library.",
+      "category": "productivity"
+    }
+  ]
+}

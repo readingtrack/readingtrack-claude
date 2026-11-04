@@ -1,0 +1,11 @@
+{
+  "name": "readingtrack",
+  "displayName": "ReadingTrack",
+  "version": "1.0.0",
+  "description": "Save explanations, code snippets and ordered reading lists from Claude to your private ReadingTrack library, then read, track and remember them.",
+  "author": { "name": "Boolescale Engineering Private Limited", "url": "https://www.readingtrack.com" },
+  "homepage": "https://www.readingtrack.com",
+  "repository": "https://github.com/readingtrack/readingtrack-claude",
+  "license": "Proprietary",
+  "keywords": ["reading", "notes", "learning", "reading-list", "knowledge"]
+}
