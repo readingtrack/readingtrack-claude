@@ -1,7 +1,7 @@
 {
   "name": "readingtrack",
   "displayName": "ReadingTrack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Save explanations, code snippets and ordered reading lists from Claude to your private ReadingTrack library, then read, track and remember them.",
   "author": { "name": "Boolescale Engineering Private Limited", "url": "https://boolescale.com" },
   "homepage": "https://www.readingtrack.com",
